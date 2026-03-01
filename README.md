@@ -8,8 +8,8 @@ gantt
     section Setup Project Structure & Definition
     1. Project.. | Define the theoretical problem : done, 2026-02-20, 2026-03-08
     1. Project.. | Define the primary goal scope of GS : done, 2026-02-20, 2026-03-08
-    1. Project.. | Define the roles for the system. : done, 2026-02-20, 2026-03-08
-    1. Project.. | Where will it live the system : done, 2026-02-20, 2026-03-08
+    1. Project.. | Define the roles for the system. : 2026-02-20, 2026-03-08
+    1. Project.. | Where will it live the system : 2026-02-20, 2026-03-08
     2.  Securi.. | Identify local labor laws regarding : 2026-02-20, 2026-03-08
     2.  Securi.. | Identify data privacy regulations a : 2026-02-20, 2026-03-08
     2.  Securi.. | Establish high-level cibersecurity : 2026-02-20, 2026-03-08
