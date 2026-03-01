@@ -6,7 +6,19 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %m/%d
     section Setup Project Structure & Definition
-    Setup Project Structure & Definition : 2026-02-20, 2026-03-08
+    Define the theoretical problem : 2026-02-20, 2026-03-08
+    Define the primary goal (scope) of GSPun : 2026-02-20, 2026-03-08
+    Define the roles for the system. : 2026-02-20, 2026-03-08
+    Where will it live the system : 2026-02-20, 2026-03-08
+    Identify local labor laws regarding empl : 2026-02-20, 2026-03-08
+    Identify data privacy regulations and da : 2026-02-20, 2026-03-08
+    Establish high-level cibersecurity stand : 2026-02-20, 2026-03-08
+    Outline the mandatory features for the r : 2026-02-20, 2026-03-08
+    Define project timeline and milestones. : 2026-02-20, 2026-03-08
+    Establish a regular review cadence : 2026-02-20, 2026-03-08
+    Identify high-level project risks : 2026-02-20, 2026-03-08
+    Define a Change Control Process : 2026-02-20, 2026-03-08
+    Identify technical, environmental and bu : 2026-02-20, 2026-03-08
     section Tech Definitions
     Decide Backend Language & Framework : 2026-03-08, 2026-03-14
     Decide on Database Management System (DB : 2026-03-08, 2026-03-14
