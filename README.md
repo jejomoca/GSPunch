@@ -6,53 +6,53 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %m/%d
     section Setup Project Structure & Definition
-    1. Project V.. | Define the theoretical problem : done, 2026-02-20, 2026-03-08
-    1. Project V.. | Define the primary goal (scope) of : done, 2026-02-20, 2026-03-08
-    1. Project V.. | Define the roles for the system. : 2026-02-20, 2026-03-08
-    1. Project V.. | Where will it live the system : 2026-02-20, 2026-03-08
-    2.  Security.. | Identify local labor laws regarding : 2026-02-20, 2026-03-08
-    2.  Security.. | Identify data privacy regulations a : 2026-02-20, 2026-03-08
-    2.  Security.. | Establish high-level cibersecurity : 2026-02-20, 2026-03-08
-    2.  Security.. | Outline the mandatory features for : 2026-02-20, 2026-03-08
-    2.  Security.. | Define project timeline and milesto : 2026-02-20, 2026-03-08
-    4. Project T.. | Establish a regular review cadence : 2026-02-20, 2026-03-08
-    4. Project T.. | Identify high-level project risks : 2026-02-20, 2026-03-08
-    4. Project T.. | Define a Change Control Process : 2026-02-20, 2026-03-08
-    4. Project T.. | Identify technical, environmental a : 2026-02-20, 2026-03-08
+    1. Project Visi.. | Define the theoretical problem : done, 2026-02-20, 2026-03-08
+    1. Project Visi.. | Define the primary goal (scope) of : done, 2026-02-20, 2026-03-08
+    1. Project Visi.. | Define the roles for the system. : 2026-02-20, 2026-03-08
+    1. Project Visi.. | Where will it live the system : 2026-02-20, 2026-03-08
+    2.  Security, L.. | Identify local labor laws regarding : 2026-02-20, 2026-03-08
+    2.  Security, L.. | Identify data privacy regulations a : 2026-02-20, 2026-03-08
+    2.  Security, L.. | Establish high-level cibersecurity : 2026-02-20, 2026-03-08
+    3. Core Scope &.. | Outline the mandatory features for : 2026-02-20, 2026-03-08
+    3. Core Scope &.. | Define project timeline and milesto : 2026-02-20, 2026-03-08
+    4. Project Trac.. | Establish a regular review cadence : 2026-02-20, 2026-03-08
+    4. Project Trac.. | Identify high-level project risks : 2026-02-20, 2026-03-08
+    4. Project Trac.. | Define a Change Control Process : 2026-02-20, 2026-03-08
+    4. Project Trac.. | Identify technical, environmental a : 2026-02-20, 2026-03-08
     section Tech Definitions
-    1. Tech Stac.. | Decide Backend Language & Framework : 2026-03-08, 2026-03-14
-    1. Tech Stac.. | Decide on Database Management Syste : 2026-03-08, 2026-03-14
-    1. Tech Stac.. | Decide on a Frontend Framework for : 2026-03-08, 2026-03-14
-    1. Tech Stac.. | Compare 2FA methods and auth servic : 2026-03-08, 2026-03-14
-    1. Tech Stac.. | Evaluate IP Geolocation APIs : 2026-03-08, 2026-03-14
+    1. Tech Stack D.. | Decide Backend Language & Framework : 2026-03-08, 2026-03-14
+    1. Tech Stack D.. | Decide on Database Management Syste : 2026-03-08, 2026-03-14
+    1. Tech Stack D.. | Decide on a Frontend Framework for : 2026-03-08, 2026-03-14
+    1. Tech Stack D.. | Compare 2FA methods and auth servic : 2026-03-08, 2026-03-14
+    1. Tech Stack D.. | Evaluate IP Geolocation APIs : 2026-03-08, 2026-03-14
     section Architecture & Design
-    Define the Backend Architecture : 2026-03-16, 2026-04-04
-    Define the Frontend Strategy : 2026-03-16, 2026-04-04
-    Establish the communication protoco : 2026-03-16, 2026-04-04
-    Design the Entity-Relationship Diag : 2026-03-16, 2026-04-04
-    Define field types, constraints, an : 2026-03-16, 2026-04-04
-    Define the Clocking Logic : 2026-03-16, 2026-04-04
-    Map the multi-step authentication f : 2026-03-16, 2026-04-04
-    Define Session Management strategy : 2026-03-16, 2026-04-04
-    Plan the server-side IP detection l : 2026-03-16, 2026-04-04
-    Map the User Journey for "Employees : 2026-03-16, 2026-04-04
-    Define Role-Based Access Control (R : 2026-03-16, 2026-04-04
-    Design the Sitemap and navigation h : 2026-03-16, 2026-04-04
+    1. System Archi.. | Define the Backend Architecture : 2026-03-16, 2026-04-04
+    1. System Archi.. | Define the Frontend Strategy : 2026-03-16, 2026-04-04
+    1. System Archi.. | Establish the communication protoco : 2026-03-16, 2026-04-04
+    2. Data Archite.. | Design the Entity-Relationship Diag : 2026-03-16, 2026-04-04
+    2. Data Archite.. | Define field types, constraints, an : 2026-03-16, 2026-04-04
+    3. Business and.. | Define the Clocking Logic : 2026-03-16, 2026-04-04
+    3. Business and.. | Map the multi-step authentication f : 2026-03-16, 2026-04-04
+    3. Business and.. | Define Session Management strategy : 2026-03-16, 2026-04-04
+    3. Business and.. | Plan the server-side IP detection l : 2026-03-16, 2026-04-04
+    4. Visual & Fun.. | Map the User Journey for "Employees : 2026-03-16, 2026-04-04
+    4. Visual & Fun.. | Define Role-Based Access Control (R : 2026-03-16, 2026-04-04
+    4. Visual & Fun.. | Design the Sitemap and navigation h : 2026-03-16, 2026-04-04
     section DEVELOPMENT
-    Implement the physical Database Sch : 2026-04-05, 2026-05-02
-    Build the Login/Logout system for u : 2026-04-05, 2026-05-02
-    Set up basic session management. : 2026-04-05, 2026-05-02
-    Develop the core Clock-in / Clock-o : 2026-04-05, 2026-05-02
-    Implement the status validator. : 2026-04-05, 2026-05-02
-    Create a basic Employee Dashboard t : 2026-04-05, 2026-05-02
-    Integrate 2FA (TOTP) verification l : 2026-04-05, 2026-05-02
-    Implement IP/Location validation. : 2026-04-05, 2026-05-02
+    1. Database & A.. | Implement the physical Database Sch : 2026-04-05, 2026-05-02
+    1. Database & A.. | Build the Login/Logout system for u : 2026-04-05, 2026-05-02
+    1. Database & A.. | Set up basic session management. : 2026-04-05, 2026-05-02
+    2. The Clocking.. | Develop the core Clock-in / Clock-o : 2026-04-05, 2026-05-02
+    2. The Clocking.. | Implement the status validator. : 2026-04-05, 2026-05-02
+    2. The Clocking.. | Create a basic Employee Dashboard t : 2026-04-05, 2026-05-02
+    3. Security Lay.. | Integrate 2FA (TOTP) verification l : 2026-04-05, 2026-05-02
+    3. Security Lay.. | Implement IP/Location validation. : 2026-04-05, 2026-05-02
     section Managament
-    Build the Admin/HR Audit Panel to v : 2026-05-03, 2026-05-13
-    Implement Change Tracking (Audit Tr : 2026-05-03, 2026-05-13
-    Add worked hours calculation and ex : 2026-05-03, 2026-05-13
-    Configure automated triggers to pre : 2026-05-03, 2026-05-13
-    Add basic statics charts : 2026-05-03, 2026-05-13
+    1. HR & Admin M.. | Build the Admin/HR Audit Panel to v : 2026-05-03, 2026-05-13
+    1. HR & Admin M.. | Implement Change Tracking (Audit Tr : 2026-05-03, 2026-05-13
+    1. HR & Admin M.. | Add worked hours calculation and ex : 2026-05-03, 2026-05-13
+    1. HR & Admin M.. | Configure automated triggers to pre : 2026-05-03, 2026-05-13
+    1. HR & Admin M.. | Add basic statics charts : 2026-05-03, 2026-05-13
     section Security QA Assurance
     Conduct Integration Testing and E2E : 2026-05-14, 2026-05-23
     Perform API Fallback testing. : 2026-05-14, 2026-05-23
